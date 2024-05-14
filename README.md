@@ -1,7 +1,7 @@
 ## Stats
 ![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=flat-for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <p align="left">
   <a href="https://github.com/takagi2943">
     <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943" />
@@ -11,12 +11,6 @@
   </a>
   <a href="http://qiita.com/takagi2943">
     <img height="20" src="https://qiita-badge.apiapi.app/s/takagi2943/posts.svg" />
-  </a>
-  <a href="http://qiita.com/takagi2943">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/takagi2943/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/takagi2943">
-    <img height="20" src="https://badgen.org/img/zenn/takagi2943/articles?style=plastic" />
   </a>
 </p>
 
