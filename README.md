@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=flat-for-the-badge)
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takagi2943&theme=gruvbox)
@@ -9,7 +10,7 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
-![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **takagi2943/takagi2943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
