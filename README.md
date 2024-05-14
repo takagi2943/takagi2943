@@ -1,5 +1,5 @@
 ## Stats
-![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg&color=orange)
+![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&&style=for-the-badge&color=blueviolet)
 <p align="left">
