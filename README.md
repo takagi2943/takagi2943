@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=flat-for-the-badge)
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takagi2943&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takagi2943&theme=gruvbox)
