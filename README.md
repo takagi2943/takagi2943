@@ -9,9 +9,6 @@
   <a href="https://github.com/takagi2943">
     <img height="20" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=for-the-badge&color=green" />
   </a>
-  <a href="http://qiita.com/takagi2943">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/takagi2943/posts.svg&style=for-the-badge&color=ff69b4" />
-  </a>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takagi2943&theme=gruvbox)
