@@ -1,16 +1,16 @@
 ## Stats
-![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg&color=orange)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&&style=for-the-badge&color=blueviolet)
 <p align="left">
   <a href="https://github.com/takagi2943">
-    <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943&color=blueviolet" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943&color=red&style=for-the-badge" />
   </a>
   <a href="https://github.com/takagi2943">
-    <img height="20" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=for-the-badge&color=green" />
   </a>
   <a href="http://qiita.com/takagi2943">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/takagi2943/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/takagi2943/posts.svg&style=for-the-badge&color=ff69b4" />
   </a>
 </p>
 
