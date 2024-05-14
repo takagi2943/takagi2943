@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet)
 <p align="left">
   <a href="https://github.com/takagi2943">
-    <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943&color=red&style=for-the-badge" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=takagi2943&color=red&style=for-the-badge" />
   </a>
   <a href="https://github.com/takagi2943">
-    <img height="20" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=for-the-badge&color=green" />
+    <img height="30" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=for-the-badge&color=green" />
   </a>
 </p>
 
