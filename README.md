@@ -1,10 +1,10 @@
 ## Stats
 ![](https://raw.githubusercontent.com/takagi2943/takagi2943/output/github-contribution-grid-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet)
 <p align="left">
   <a href="https://github.com/takagi2943">
-    <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=takagi2943&color=blueviolet" />
   </a>
   <a href="https://github.com/takagi2943">
     <img height="20" src="https://img.shields.io/github/followers/takagi2943?label=follow&logo=github&style=flat" />
